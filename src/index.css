@@ -1,0 +1,76 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body, #app, #app>div {
+  height: 100%
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.navbar {
+  float: left;
+  width: 15%;
+  height: 90vh;
+  background-color: lightblue;
+  color: white;
+}
+
+.page {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.header {
+  width: 100%;
+  height: 10vh;
+  background-color: #61d4f1;
+  text-align: left !important;
+}
+
+.actslist {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.primaryact {
+  text-decoration: none;
+  font-size: 45pt;
+}
+
+.secondaryact {
+  text-decoration: none;
+  font-size: 35pt;
+}
+
+.restact {
+  text-decoration: none;
+  font-size: 25pt;
+}
+
+.artist {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.artist {
+  font-size: 30pt;
+  
+}
+
+.logo {
+  height: 10vh;
+}
+
+.artistImage {
+  height: 350px;
+}
